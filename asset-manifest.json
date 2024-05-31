@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kalkulator-sederhana/static/css/main.e6c13ad2.css",
+    "main.js": "/kalkulator-sederhana/static/js/main.2fdfcfab.js",
+    "static/js/453.d48babcc.chunk.js": "/kalkulator-sederhana/static/js/453.d48babcc.chunk.js",
+    "index.html": "/kalkulator-sederhana/index.html",
+    "main.e6c13ad2.css.map": "/kalkulator-sederhana/static/css/main.e6c13ad2.css.map",
+    "main.2fdfcfab.js.map": "/kalkulator-sederhana/static/js/main.2fdfcfab.js.map",
+    "453.d48babcc.chunk.js.map": "/kalkulator-sederhana/static/js/453.d48babcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2fdfcfab.js"
+  ]
+}
