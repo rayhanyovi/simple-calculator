@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can access it  [Here](https://rayhanyovi.github.io/simple-calculator).
+
 ## Available Scripts
 
 In the project directory, you can run:
